@@ -111,7 +111,10 @@ a{
 i{
     color: red;
 }
-
+.car{
+    width: 84%;
+    text-align: center;
+}
 
 
 
